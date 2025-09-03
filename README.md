@@ -1,7 +1,38 @@
 # HI👋, I'm Ntokozo Ntombela
-### A passionate Software Engineering from South Africa
-# 💫 About Me:
-## 🙋‍♂️ About Me :<br><br>🛠 I’m currently working on:<br>Building a student management system using **Flask** and **MySQL**<br><br>🤝 I’m looking to collaborate on:<br>Open source or student-led **backend** and **API-driven** projects<br><br>🧠 I’m looking for help with:<br>Improving system design and mastering clean architecture principles<br><br>🌱 I’m currently learning:<br>Advanced **C# with ASP.NET**, **Python Flask**, and **Node.js**<br><br>💬 Ask me about:<br>REST APIs, back-end logic, or how to get started with Flask or ASP.NET<br><br>⚡ Fun fact:<br>I enjoy turning real-life problems into code — and I love clean, well-commented projects!<br>
+# 👨‍💻 A passionate Software Engineer & Cybersecurity Analyst from South Africa  
+
+## 💫 About Me:
+🙋‍♂️ **About Me**  
+I am a dedicated and curious Software Engineer with a growing expertise in **Cybersecurity Analysis**. I love building backend systems, securing digital applications, and applying security-first principles to software design.  
+
+### 🛠 I’m currently working on:
+- A **Student Management System** using **Flask** and **MySQL**  
+- Strengthening security measures in backend applications with **OWASP best practices**  
+
+### 🤝 I’m looking to collaborate on:
+- Open source or student-led **backend**, **API-driven**, and **cybersecurity-focused** projects  
+- Security auditing and vulnerability assessment for small-scale applications  
+
+### 🧠 I’m looking for help with:
+- Improving **system design** and mastering **clean architecture principles**  
+- Enhancing practical skills in **penetration testing**, **incident response**, and **cloud security**  
+
+### 🌱 I’m currently learning:
+- Advanced **C# with ASP.NET**, **Python Flask**, and **Node.js**  
+- **Google Cybersecurity Professional Certificate concepts**, including:  
+  - Security Operations (SOC) analysis  
+  - Threats, vulnerabilities, and risk management  
+  - Network defense and incident response  
+  - Tools like **SIEM**, **Wireshark**, and **Splunk**  
+
+### 💬 Ask me about:
+- **REST APIs** & backend logic  
+- Getting started with **Flask** or **ASP.NET**  
+- Best practices in **application security** & vulnerability prevention  
+
+### ⚡ Fun fact:
+I enjoy turning **real-life problems into code**, securing them from vulnerabilities, and ensuring that every project I touch is **clean, scalable, and well-documented**. 
+
 
 
 ## 🌐 Socials:
