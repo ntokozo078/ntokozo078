@@ -1,5 +1,5 @@
 # HI👋, I'm Ntokozo Ntombela
-# 👨‍💻 A passionate Software Engineer & Data Engineer from South Africa  
+# 👨‍💻 A passionate Data Engineer & Software Engineer from South Africa  
 
 ## 💫 About Me:
 🙋‍♂️ **About Me** I am a dedicated **Software Engineer** transitioning into **Data Engineering**. I specialize in building end-to-end **ETL pipelines**, automating data workflows, and developing data-driven web applications. I love turning raw, messy data into actionable insights using Python, SQL, and Cloud technologies.  
@@ -49,5 +49,3 @@ I enjoy turning **real-life problems into code**, whether it's tracking job mark
 ![](https://nirzak-streak-stats.vercel.app/?user=ntokozo078&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntokozo078&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ntokozo078&theme=radical&no-frame=false&no-bg=false&margin-w=4)
