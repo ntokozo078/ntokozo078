@@ -1,7 +1,7 @@
 # HI 👋, I'm Ntokozo Ntombela
 ### 👨‍💻 Data Engineer | Cloud Analytics | ETL Specialist
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ntokozo078.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://data-engineering-portfolio-xi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntokozo-ntombela-ba662235a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntombelan098@gmail.com)
 
