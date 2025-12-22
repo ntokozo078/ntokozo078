@@ -1,51 +1,61 @@
-# HI👋, I'm Ntokozo Ntombela
-# 👨‍💻 A passionate Data Engineer & Software Engineer from South Africa  
+# HI 👋, I'm Ntokozo Ntombela
+### 👨‍💻 Data Engineer | Cloud Analytics | ETL Specialist
 
-## 💫 About Me:
-🙋‍♂️ **About Me** I am a dedicated **Software Engineer** transitioning into **Data Engineering**. I specialize in building end-to-end **ETL pipelines**, automating data workflows, and developing data-driven web applications. I love turning raw, messy data into actionable insights using Python, SQL, and Cloud technologies.  
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ntokozo078.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntokozo-ntombela-ba662235a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntombelan098@gmail.com)
 
-### 🛠 I’m currently working on:
-- **DevPulse:** A real-time Job Market Analytics Platform using **Flask**, **Pandas**, and **Automated ETL Pipelines**.
-- **Data Automation:** Scripts to automate file organization and web scraping tasks.
-- Strengthening my skills in **Database Design** and **API Development**.
+## 💫 About Me
+I am a **Software Engineer** transitioning into **Data Engineering**, focused on the *lifecycle of data*. 
 
-### 🤝 I’m looking to collaborate on:
-- **Data Engineering** projects (ETL, Data Warehousing).
-- Open source **Backend** or **Python-based** tools.
-- Projects involving **Data Visualization** and Dashboards.
+While many graduates focus solely on code, I specialize in building automated systems that ingest, clean, and transform raw information into actionable insights. My background in software engineering gives me a unique edge in building robust, production-ready data pipelines using **Azure**, **Databricks**, and **Python**.
 
-### 🧠 I’m looking for help with:
-- Mastering **Cloud Data Architectures** (Azure/AWS).
-- Advanced **Data Orchestration** tools like **Apache Airflow**.
-- Best practices for **Big Data** processing.
+---
 
-### 🌱 I’m currently learning:
-- **Azure Data Engineering** (Data Factory, Synapse Analytics).
-- **Advanced SQL** techniques for data warehousing.
-- **Secure Coding Practices** (leveraging my background in cybersecurity fundamentals).
+## 🚀 Featured Projects
 
-### 💬 Ask me about:
-- **Building ETL Pipelines** from scratch.
-- **Web Scraping** & Data Cleaning with **Pandas**.
-- **Flask** Web Development & **REST APIs**.
-- Automating boring tasks with **Python**.
+| 🏗️ **Project** | 📝 **Description** | 🛠️ **Tech Stack** |
+|:--- |:--- |:--- |
+| **Databricks Medallion Pipeline** | End-to-end cloud pipeline using **PySpark** and **Delta Lake**. Processes sales data through Bronze, Silver, and Gold layers with Schema Enforcement and Time Travel. | ![Databricks](https://img.shields.io/badge/-Databricks-333?logo=databricks&logoColor=FF3621) ![Spark](https://img.shields.io/badge/-PySpark-333?logo=apachespark) |
+| **InsightOps BI System** | Production-grade Data Warehouse built on a **Star Schema** with surrogate keys. Transforms raw e-commerce data into KPIs like Churn & Profit Margin. | ![Python](https://img.shields.io/badge/-Python-333?logo=python) ![SQL](https://img.shields.io/badge/-SQL-333?logo=postgresql) |
+| **SA Job Market Pipeline** | Daily self-healing pipeline that scrapes job data. Features a **"Zombie Filter"** for expired jobs, hybrid API ingestion, and **Cron Job** scheduling. | ![Postgres](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql) ![Render](https://img.shields.io/badge/-Render-333?logo=render) |
 
-### ⚡ Fun fact:
-I enjoy turning **real-life problems into code**, whether it's tracking job market trends or organizing thousands of files automatically. I believe in writing code that is **clean, scalable, and data-centric**.
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ntokozo.ntombela.5074/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ntokozo098) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ntombelan098@gmail.com) 
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack:
+### **☁️ Cloud & Big Data**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Languages & Frameworks:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### **🐍 Engineering & ETL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Data Engineering & Databases:** ![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Red?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+### **🗄️ Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Tools & Deployment:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ntokozo078&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ntokozo078&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntokozo078&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ntokozo078&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntokozo078&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ntokozo078&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
+<p align="center">
+  Generated with ❤️ by Ntokozo Ntombela
+</p>
 
