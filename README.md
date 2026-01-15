@@ -41,15 +41,7 @@ I am actively seeking **Graduate / Junior Data Engineer** opportunities.
 ---
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntokozo078&show_icons=true&theme=dark&hide_border=true)  
-*(GitHub stats loading...)*
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntokozo078&layout=compact&theme=dark&hide_border=true)  
-*(Top languages loading...)*
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntokozo078&theme=dark&hide_border=true)  
-*(Streak stats loading...)*
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntokozo078&theme=dark&hide_border=true)
 ---
 
 ## 📂 Portfolio & Projects
