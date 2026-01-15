@@ -39,7 +39,6 @@ I am actively seeking **Graduate / Junior Data Engineer** opportunities.
 - Linux fundamentals
 
 ---
-
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntokozo078&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
@@ -47,8 +46,6 @@ I am actively seeking **Graduate / Junior Data Engineer** opportunities.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntokozo078&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ntokozo078&theme=dark&hide_border=true)
-
-
 ---
 
 ## 📂 Portfolio & Projects
@@ -73,8 +70,6 @@ I am developing depth in:
 
 My long-term goal is to become a **high-impact Data Engineer** working on business-critical data systems.
 
----
 
-*Built with intention. No tutorial spam. No filler.*
 
 
