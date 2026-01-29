@@ -51,7 +51,7 @@ I am actively seeking **Graduate / Junior Data Engineer** opportunities.
 
 My projects focus on:
 - End-to-end data pipelines
-- Spark-based large-scale data processing
+- Spark-based large-scale data processing 
 - BI-ready data models
 - Automated analytics workflows
 
